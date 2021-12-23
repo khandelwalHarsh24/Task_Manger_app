@@ -1,0 +1,12 @@
+Mongodb is a Non Realtional Db
+It has collection type db represent group of items 
+and a single item is called document is nosql.
+a document is a set of key value pair
+
+In Mongodb documents have a dynamic schema which means we put
+diffrent database in one collection.
+
+We are connecting with db using mongoose , it is object data modeling library.
+We also use native mongodb driver
+
+b5mWXKQfT6hBC8W=Password
